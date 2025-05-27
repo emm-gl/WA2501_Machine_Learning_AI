@@ -8,7 +8,7 @@ Por favor envíe el cuaderno de Colab con
 permisos para comentar y el resumen ejecutivo
 a los correo a Ana Isabel y a Alfonso.
 *  Considere el conjunto de datos
-FraudeCanastas.csv disponible en el
+ [FraudeCanastas.csv](https://drive.google.com/file/d/1RWo0GCEO_SMdNn3e0VFN1ixjXO0kW1j7/view) disponible en el
 archivo zip correspondiente.
 * Para conocer más información sobre el
 dataset original (no sobre el cual
@@ -27,3 +27,5 @@ parámetros utilizados
 * Realice un resumen ejecutivo de no más
 de dos párrafos en un documento de
 texto.
+
+
